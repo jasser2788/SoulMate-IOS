@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "alix-and-anwar-wedding-28-00d8ecd1277743b39f82a5cb44c789bf.-squarejpg-71579b42a7d04fc9bd7465e87e5eab15.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
